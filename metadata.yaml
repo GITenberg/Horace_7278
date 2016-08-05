@@ -1,0 +1,28 @@
+_repo: Horace_7278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martin, Theodore, Sir
+    aliases:
+    - Martin, Sir Theodore
+    - Gaultier, Bon
+    birthdate: 1816
+    deathdate: 1909
+    gutenberg_agent_id: '2404'
+    url: http://www.gutenberg.org/2009/agents/2404
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Martin
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horace -- Criticism and interpretation'
+- !lcc 'PA'
+- GITenberg
+title: Horace
+url: http://www.gutenberg.org/ebooks/7278
